@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SearchNews</string>
+    <string name="select_date">Select Date</string>
+    <string name="show_news">Show news</string>
+    <string name="search_by_keyword">Search by keyword</string>
+    <string name="get_news">Get News</string>
+    <string name="top_news">Top Stories</string>
+</resources>
